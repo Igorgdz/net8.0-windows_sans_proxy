@@ -1,0 +1,4380 @@
+{
+ "n_tickets": 22,
+ "stats": {
+  "produits_par_ticket": {
+   "moyenne": 7.18,
+   "mediane": 6.0,
+   "min": 1,
+   "max": 27,
+   "ecart_type": 6.2,
+   "distribution": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
+    6,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    14,
+    20,
+    27
+   ]
+  },
+  "montant_ticket": {
+   "moyenne": 25.77,
+   "mediane": 20.33,
+   "min": 3.16,
+   "max": 98.12
+  }
+ },
+ "produits": [
+  {
+   "nom": "SAC KRAFT SERIE SP",
+   "frequence": 5,
+   "proba": 0.2273,
+   "prix_moyen": 0.25,
+   "source": "panel",
+   "poids": 5,
+   "categorie": "Sacs"
+  },
+  {
+   "nom": "8X100G FR.BLC.VAN.",
+   "frequence": 4,
+   "proba": 0.1818,
+   "prix_moyen": 2.55,
+   "source": "panel",
+   "poids": 4,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "BANANE CRF BIO",
+   "frequence": 3,
+   "proba": 0.1364,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 3,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "100G CREVETTE JUMB",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 3.69,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "250G VERMICELL RIZ",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 2.19,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "3X70G EMMENTAL RAP",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 2.15,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "400G CABILLAU PANE",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 7.09,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "500G FRAMBOISES CR",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 5.19,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "500ML SH REPAR+ PR",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 5.28,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "750ML PISTO.LAV.VI",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 1.35,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "75ML SIG I8 TP BLA",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 2.69,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "SAC DE CAISSE",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 0.65,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Sacs"
+  },
+  {
+   "nom": "SAC KRAFT BRUN",
+   "frequence": 2,
+   "proba": 0.0909,
+   "prix_moyen": 0.25,
+   "source": "panel",
+   "poids": 2,
+   "categorie": "Sacs"
+  },
+  {
+   "nom": "1.215L LESSIVE LIQ",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "100G JEUNES POUSSE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.4,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "10X100G STEAK HACH",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 15.59,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "11 KINDER MAXI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "125G CAPRICE DES",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.19,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "130G MINI TARTINADE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.7,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "130G MINIS TARTIN.TH",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.16,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "150 MOUCHOIR 2PLIS",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.82,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "160G EMMENTAL RAP",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "180G BAP CLA WRAP",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.39,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "180G NUGGET TOFU",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.69,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "1KG FROM.FRAIS 3%MG",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.5,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "1KG GRAIN PETITS P",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 19.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "1KG POELEE PARISIE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "1KG RIZ BASMATI CA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "1L ML 0%MG LACTEL",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.02,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "1L VINAIGRE 14D NA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.29,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "2 GANTS EPONGE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "2.X1/2 BAGUET.PREC",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.68,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "200G ICEBERG SIMPL",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "220G SANDWICH VEGE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "230G MOUT.MI FORTE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "230G SAND VEGETAL",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "230G XXL HIGH PROT S",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "25 CL RED BULL COC",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.57,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "25 CL RED BULL MYRTI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.25,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "25 CL RED BULL REG",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "250G CANCOILLOTT.A",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "250G CEPES CHAMPI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.75,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "250G CRAQUANTE NAT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "250G RAVIOLI FROM",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.45,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "25CL RED BUL THE SPR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.91,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "270G SKYR AB FRAIS",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "2X25CL BT CREME UH",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.85,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "2X25CL CREME BT SE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "2X25CL CREME SEMI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "300G 18 BAT. SURIM",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "300G GALETTES SARR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.1,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "300G LENTILLE VERT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "300G NATURE LEGER",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "300G TORTELLINI JB",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "300ML PP CR.LAV CO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.59,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "320G COEUR DE LAIT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "320G SALADE ANTIBE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "320G SALADE ROMA SOD",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.35,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "320G SLD&CIE PLT P",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.35,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "35CL WH.LABEL 5",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 8.35,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "375G MUESLI CR TT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "3X1/10 TH ALB PREC",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.35,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "3X40G CAC CHOC NOI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.9,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "4 TR BLC PLT DORE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.59,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "400G 4 COLIN F&CHI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.75,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "450G PIZZA CHORIZO C",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.44,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "450GR SKYR VANILLE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "454G BEURRE CAC PR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "454G BEURRE CACAHU",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "470G PIZZA DOUBLO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "480G PIZZAIOLO 6 F",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.85,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "4X100G STEAK HACHE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 7.79,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "500G BICARBO SOUDE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "500G BIO FLOCON AV",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G COQUILLETTES",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.05,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G MACARONI BARI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.29,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G RIZ BASMATI C",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500ML BOISS AVOIN",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.79,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "500ML LIQ VSL 0% C",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "500ML SANYTOL PIST",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "6 OEUFS RDF",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "6 RLX PAP.HYG.3P.B",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.39,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "650ML DCH&B ED PEC",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.05,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "750ML CANARD GEL D",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "750ML SPR.DEGRAIS.",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.29,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "75ML NAT ELMT CHAR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.52,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "8X100G FRO BLC NAT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "8X100G NATURE SIGG",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.85,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "8X125G LAUTHENTIQ",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 15.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "900G CHILI CON CAR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 6.15,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "BANANE 5 DOIGTS",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "BARILLA COQUILLETT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "BIO CONCOMBRE PCE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.39,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "BON PARIS CSNI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.79,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "BTE 80 MOUCH.LOTIO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.29,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "CANARD CONFIT PDT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "CANARD LIQ GEL FRE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "CEREALES ET EN-CAS",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.77,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "CONCOMBRE PIECE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.69,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "COUSC PARFUME",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "DESINFECT. NETTOYA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.95,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "DOLCE PIZZA REGINA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "EAT NATURAL T3 PRO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.9,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "ESSUIE TT RENOVA I",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.65,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "ESSUYAGE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "FORMAGISSIMA 2025",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 12.9,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "GNOCCHETTI POULET",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.45,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "HARICOT VERT EX.F.",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.85,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "KINDER MAXI X18 BO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 5.57,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "KINDER T9 COUNTRY",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.49,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "KNACKI VEGETALE 6P",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.69,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "KOMBUC GINGEMB CIA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.89,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "L OR ESPRE SPLENDE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 9.35,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "LOT 2 GANT BIO",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "MAG DLX CARA 85ML",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.25,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "MIX ICONIC",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 17.5,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "MR PROP SPRAY RAPI",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "PAIN 400 GR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "PANE SIMPL",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "PATE LUSTUCR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.85,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "PET 1.75L COCA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.43,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "PET 2L POM.CASSIS.FR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "PH 8RLX 3 PLIS BLA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 4.05,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "POIVRON ROUGE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.12,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "SALADE&CIE ROMA 32",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.09,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "SALADE.CIE MANHATT",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "SAUCE FISH&CHIPS",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "SAUCE SOJA SUCREE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "SIG I8 TP COMPLET",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.69,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "SIGG SKYR ABOIR FR",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.45,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "SOUPLINE ULTRA 3D",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 5.59,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "THE BONA PECHE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.9,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "TOMATE NOIRE",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.99,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "ULTRALITE MEDIUM 2",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 3.05,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X200 BATONNETS OUA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 0.41,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X3 EPONGES GRATTAN",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.05,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X3 ESSUIE TOUT COM",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 1.59,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X3 ESSUIE TT 2P BL",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.29,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X4 ET 3P BLC ULTRA",
+   "frequence": 1,
+   "proba": 0.0455,
+   "prix_moyen": 2.79,
+   "source": "panel",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "POMME GALA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "1KG CLEMENTINE FIL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "CITRON JAUNE X3",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "KIWI VERT X4",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "AVOCAT PRET A MANG",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "500G TOMATE CERISE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.69,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "TOMATE RONDE GRAPPE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "COURGETTE VERTE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "AUBERGINE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.42,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "1KG CAROTTE SAC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "OIGNON JAUNE FILET",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.59,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "AIL BLANC 3 TETES",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "500G CHAMPIGNON PAR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "BROCOLI PIECE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "CHOU FLEUR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "1KG PDT VAPEUR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "2.5KG PDT CONSO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "SALADE BATAVIA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "150G MACHE BARQUETT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "MELON CHARENTAIS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "1KG ORANGE A JUS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "500G FRAISE GARIGUE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "RAISIN BLANC ITALIA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Fruits & Légumes"
+  },
+  {
+   "nom": "4TR JBON SUP HERTA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "6TR JAMBON BLC CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "2X75G LARDONS FUMES",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "8TR BACON FUME CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "SAUCISSON SEC AUVER",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "250G CHORIZO DOUX",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "180G MOUSSE CANARD",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.59,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "KNACKI ORIGINAL X10",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "150G COPPA ITALIENN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.39,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "200G PATE CAMPAGNE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Charcuterie"
+  },
+  {
+   "nom": "2 FILETS POULET JNE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "1KG CUISSE POULET",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "POULET ROTI FERMIER",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 8.9,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "2 STEAKS HACHES 15%",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "350G EMINCE BOEUF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "4 SAUCISSES TOULOUS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "2 COTES PORC ECHINE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "800G ROTI PORC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "2 PAVES SAUMON ASC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 7.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "200G SAUMON FUME EC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "2 DOS CABILLAUD MSC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 8.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "200G CREVETTE ROSE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "1.4KG MOULE BOUCHOT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.6,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Viande / Poisson"
+  },
+  {
+   "nom": "250G BEURRE PRESIDT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "250G BEURRE DX CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "12 OEUFS PLEIN AIR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.59,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "1L LAIT 1/2 ECR CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.05,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "6X1L LAIT 1/2 ECREM",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "16X125G YAOURT NATU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "4X125G ACTIVIA NATU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "12X125G YAOURT AROM",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "4X100G DANETTE CHOC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.09,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "200G ST MORET",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.39,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "BOURSIN AIL FIN HER",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "250G COMTE 18 MOIS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "400G RACLETTE CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "125G MOZZARELLA CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "200G FETA AOP",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "180G BUCHE CHEVRE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "CAMEMBERT PRESIDENT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "30CL CREME FLEURETT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Crèmerie / Œufs"
+  },
+  {
+   "nom": "X2 CROQUE MONSIEUR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.69,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "400G QUICHE LORRAIN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "X4 CORDON BLEU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "300G TABOULE ORIENT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "200G HOUMOUS NATURE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "SUSHI CALIFORNIA X8",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.9,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "POKE BOWL SAUMON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 7.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "PIZZA FRAICHE REINE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "260G FLAMMEKUECHE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "500G COUSCOUS ROYAL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "350G BOX PATE CARBO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "WRAP POULET CAESAR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Traiteur / Snacking"
+  },
+  {
+   "nom": "750G FRITE FOUR CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "1KG RATATOUILLE SG",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "450G EPINARD HACHE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "1KG PETITS POIS DX",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "X10 MINI BAT.VANILL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "465ML BJ COOKIE DGH",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "600G PIZZA 4 FROMAG",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "X10 CROQUE POISSON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "1KG NUGGETS POULET",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "X2 CREPE JBON FROMG",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "1L GLACE VANILLE CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "4 MOELLEUX CHOCOLAT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "600G POELEE CAMPAGN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Surgelés / Pizzas"
+  },
+  {
+   "nom": "500G SPAGHETTI PANZ",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G PENNE RIG PANZ",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "1KG RIZ LONG GRAIN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G QUINOA CRF BIO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500G SEMOULE MOY CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "400G HARICOT ROUGE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 0.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "400G POIS CHICHE CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 0.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "300G MAIS DOUX CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.45,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "160G THON NATUREL C",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "135G SARDINE HUILE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "370G CORNICHONS FIN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "700G PASSATA TOMATE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "140G DBLE CONCENTRE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 0.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "190G PESTO VERT BAR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "500ML HUILE OLIVE V",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "1L HUILE TOURNESOL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "50CL VINAIGRE BALSA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "1KG FARINE T55 CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 0.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "750G SEL FIN BALEIN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.05,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "X12 BOUILLON VOLAIL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.65,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "250ML SCE SOJA KIKK",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "530G KETCHUP HEINZ",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "400G MAYONNAISE AMO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie salée"
+  },
+  {
+   "nom": "825G NUTELLA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.39,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "1KG SUCRE POUDRE CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "500G MIEL FLEURS CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "370G CONF FRAISE BM",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "100G LINDT NOIR 70%",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.55,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "200G CHOC LAIT MILK",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "430G CHOCAPIC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "500G CORN FLAKES CR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "250G CAFE MOULU CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.69,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "X36 DOSETTE SENSEO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "X25 THE VERT LIPTON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "X25 INFUSION VERVEI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "450G NESQUIK",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "400G PTIT DEJ CHOC",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "300G PRINCE CHOCOLA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "175G COOKIES PEPITE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "1KG COMPOTE POMME C",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.39,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Épicerie sucrée / Petit-déj"
+  },
+  {
+   "nom": "BAGUETTE TRADITION",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.2,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "X4 CROISSANT PUR BR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "X6 PAIN AU CHOCOLAT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "500G PAIN MIE COMPL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "600G BRIOCHE TRANCH",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "X6 PITCH CHOCO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "300G PAIN CEREALES",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "X8 GAUFRE LIEGEOISE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "X4 MUFFIN PEPITES",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "TARTE CITRON MERING",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boulangerie / Pâtisserie"
+  },
+  {
+   "nom": "145G CHIPS LAYS NAT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "120G CHIPS PAYSANNE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.65,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "185G TORTILLA CHILI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "100G CACAHUETE GRIL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "125G PISTACHE GRILL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "250G MELANGE APERIT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "100G TUC ORIGINAL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "125G APERICUBE NATU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.69,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "75G MINI SAUCISSON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "180G TAPENADE OLIVE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Apéritif / Snacks"
+  },
+  {
+   "nom": "6X1.5L EAU CRISTALI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "6X50CL EAU MINERALE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1L PUR JUS ORANGE C",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1L JUS POMME CRF BI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "2L OASIS TROPICAL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.59,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1L BADOIT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.09,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1.5L SCHWEPPES AGRU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1.5L LIPTON ICE TEA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1L LAIT AMANDE BJOR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.59,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1L SIROP GRENADINE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.05,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "60CL SIROP MENTHE T",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "50CL MONSTER ENERGY",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.65,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "8X33CL COCA ZERO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "1.5L ORANGINA",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.15,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Boissons"
+  },
+  {
+   "nom": "75CL BORDEAUX SUPER",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "75CL COTES RHONE VI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "75CL ROSE PROVENCE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "75CL CHARDONNAY PAY",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "6X25CL 1664",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.2,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "X12 33CL LEFFE BLON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 10.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "3X33CL DESPERADOS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 5.1,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "70CL RICARD",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 19.9,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "70CL GIN GORDONS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 15.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "75CL CREMANT LOIRE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 7.5,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Alcools / Vins"
+  },
+  {
+   "nom": "250ML DOUCHE TAHITI",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "200ML DEO SANEX",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.79,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "250ML SHAMP HEAD&SH",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.45,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "200ML AP.SHAMP ELSE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.25,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "75ML CREME MAIN NEU",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X4 SAVON MARSEILLE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "300ML SAVON LIQ MAR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X8 RASOIR BIC 2LAME",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "75ML DENT.ELMEX PRO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.65,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X3 BROSSE DENT SOUP",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "500ML LISTERINE MEN",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X16 TAMPON REGULIER",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.89,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X24 SERVIETTE NUIT",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Hygiène / Beauté"
+  },
+  {
+   "nom": "X30 TABL LAVE VAISS",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 6.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "500ML PAIC CITRON",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "1.98L LESSIVE ARIEL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 10.45,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X27 CAPS SKIP 3EN1",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 9.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "1L ADOUCISSANT CAJO",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.35,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "750ML JAVEL PISTOLE",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.75,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "2L EAU JAVEL CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.19,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X4 PILE AA DURACELL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 4.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "AMPOULE LED E27 60W",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.99,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X50 SAC CONGELATION",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.85,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "30M FILM ALIMENTAIR",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.55,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "20M PAPIER ALU CRF",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 1.95,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "X20 SAC POUBELLE 30",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 2.29,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  },
+  {
+   "nom": "1L DESTOP GEL JAVEL",
+   "frequence": 0,
+   "proba": 0.0,
+   "prix_moyen": 3.49,
+   "source": "catalogue",
+   "poids": 1,
+   "categorie": "Entretien / Maison"
+  }
+ ],
+ "tickets": [
+  {
+   "id": "1-1075-1937",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "26/05/2026",
+   "total": 31.45,
+   "produits": [
+    {
+     "nom": "SAC KRAFT SERIE SP",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    },
+    {
+     "nom": "250G VERMICELL RIZ",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.19,
+     "montant": 2.19
+    },
+    {
+     "nom": "300G 18 BAT. SURIM",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.15,
+     "montant": 2.15
+    },
+    {
+     "nom": "300G GALETTES SARR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.1,
+     "montant": 3.1
+    },
+    {
+     "nom": "250G CANCOILLOTT.A",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "6 OEUFS RDF",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.95,
+     "montant": 2.95
+    },
+    {
+     "nom": "BON PARIS CSNI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.79,
+     "montant": 3.79
+    },
+    {
+     "nom": "100G JEUNES POUSSE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.4,
+     "montant": 1.4
+    },
+    {
+     "nom": "320G COEUR DE LAIT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.65,
+     "montant": 2.65
+    },
+    {
+     "nom": "470G PIZZA DOUBLO",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.09,
+     "montant": 4.09
+    },
+    {
+     "nom": "TOMATE NOIRE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "POIVRON ROUGE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.12,
+     "montant": 1.12
+    },
+    {
+     "nom": "750ML CANARD GEL D",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.89,
+     "montant": 1.89
+    },
+    {
+     "nom": "8X100G FRO BLC NAT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.89,
+     "montant": 1.89
+    }
+   ]
+  },
+  {
+   "id": "1-1311-1911",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "03/02/2026",
+   "total": 98.12,
+   "produits": [
+    {
+     "nom": "SAC DE CAISSE",
+     "tva": 20.0,
+     "qte": 2,
+     "pu": 0.65,
+     "montant": 1.3
+    },
+    {
+     "nom": "X3 ESSUIE TOUT COM",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.59,
+     "montant": 1.59
+    },
+    {
+     "nom": "6 RLX PAP.HYG.3P.B",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.39,
+     "montant": 3.39
+    },
+    {
+     "nom": "CONCOMBRE PIECE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.69,
+     "montant": 1.69
+    },
+    {
+     "nom": "250G CEPES CHAMPI",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 3.75,
+     "montant": 7.5
+    },
+    {
+     "nom": "400G 4 COLIN F&CHI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.75,
+     "montant": 3.75
+    },
+    {
+     "nom": "BTE 80 MOUCH.LOTIO",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.29,
+     "montant": 1.29
+    },
+    {
+     "nom": "400G CABILLAU PANE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 7.09,
+     "montant": 7.09
+    },
+    {
+     "nom": "HARICOT VERT EX.F.",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.85,
+     "montant": 2.85
+    },
+    {
+     "nom": "1KG POELEE PARISIE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.65,
+     "montant": 3.65
+    },
+    {
+     "nom": "200G ICEBERG SIMPL",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 0.99,
+     "montant": 0.99
+    },
+    {
+     "nom": "KINDER MAXI X18 BO",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 5.57,
+     "montant": 5.57
+    },
+    {
+     "nom": "300G NATURE LEGER",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.09,
+     "montant": 4.09
+    },
+    {
+     "nom": "BARILLA COQUILLETT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.95,
+     "montant": 1.95
+    },
+    {
+     "nom": "COUSC PARFUME",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.95,
+     "montant": 2.95
+    },
+    {
+     "nom": "500ML SH REPAR+ PR",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 5.69,
+     "montant": 5.69
+    },
+    {
+     "nom": "500G MACARONI BARI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.29,
+     "montant": 1.29
+    },
+    {
+     "nom": "1KG RIZ BASMATI CA",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.65,
+     "montant": 2.65
+    },
+    {
+     "nom": "230G MOUT.MI FORTE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "KNACKI VEGETALE 6P",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.69,
+     "montant": 2.69
+    },
+    {
+     "nom": "3X1/10 TH ALB PREC",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 2.35,
+     "montant": 4.7
+    },
+    {
+     "nom": "BANANE 5 DOIGTS",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 0.99,
+     "montant": 0.99
+    },
+    {
+     "nom": "500G FRAMBOISES CR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 5.19,
+     "montant": 5.19
+    },
+    {
+     "nom": "10X100G STEAK HACH",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 15.59,
+     "montant": 15.59
+    },
+    {
+     "nom": "2X25CL BT CREME UH",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.85,
+     "montant": 2.85
+    },
+    {
+     "nom": "3X70G EMMENTAL RAP",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.15,
+     "montant": 2.15
+    },
+    {
+     "nom": "75ML SIG I8 TP BLA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.69,
+     "montant": 2.69
+    }
+   ]
+  },
+  {
+   "id": "1-170-1900",
+   "magasin": "23/07/2026 à 19h00",
+   "date": "23/07/2026",
+   "total": 5.35,
+   "produits": [
+    {
+     "nom": "450G PIZZA CHORIZO C",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.44,
+     "montant": 3.44
+    },
+    {
+     "nom": "25CL RED BUL THE SPR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.91,
+     "montant": 1.91
+    }
+   ]
+  },
+  {
+   "id": "1-203-1642",
+   "magasin": "EXPRESS TOULOUSE VASSEUR",
+   "date": "12/07/2026",
+   "total": 3.16,
+   "produits": [
+    {
+     "nom": "130G MINIS TARTIN.TH",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 3.16,
+     "montant": 3.16
+    }
+   ]
+  },
+  {
+   "id": "1-6579-0926",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "12/08/2026",
+   "total": 49.1,
+   "produits": [
+    {
+     "nom": "PH 8RLX 3 PLIS BLA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 4.05,
+     "montant": 4.05
+    },
+    {
+     "nom": "500G BICARBO SOUDE",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.95,
+     "montant": 1.95
+    },
+    {
+     "nom": "MR PROP SPRAY RAPI",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.09,
+     "montant": 3.09
+    },
+    {
+     "nom": "SAC DE CAISSE",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.65,
+     "montant": 0.65
+    },
+    {
+     "nom": "500ML SANYTOL PIST",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.95,
+     "montant": 2.95
+    },
+    {
+     "nom": "ESSUYAGE",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 4.49,
+     "montant": 4.49
+    },
+    {
+     "nom": "650ML DCH&B ED PEC",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 4.05,
+     "montant": 4.05
+    },
+    {
+     "nom": "300ML PP CR.LAV CO",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.59,
+     "montant": 1.59
+    },
+    {
+     "nom": "CANARD LIQ GEL FRE",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.89,
+     "montant": 1.89
+    },
+    {
+     "nom": "SOUPLINE ULTRA 3D",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 5.59,
+     "montant": 5.59
+    },
+    {
+     "nom": "750ML PISTO.LAV.VI",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.35,
+     "montant": 1.35
+    },
+    {
+     "nom": "1.215L LESSIVE LIQ",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.49,
+     "montant": 2.49
+    },
+    {
+     "nom": "X3 EPONGES GRATTAN",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.05,
+     "montant": 1.05
+    },
+    {
+     "nom": "75ML SIG I8 TP BLA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.69,
+     "montant": 2.69
+    },
+    {
+     "nom": "1L VINAIGRE 14D NA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.29,
+     "montant": 3.29
+    },
+    {
+     "nom": "750ML SPR.DEGRAIS.",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.29,
+     "montant": 1.29
+    },
+    {
+     "nom": "X200 BATONNETS OUA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.41,
+     "montant": 0.41
+    },
+    {
+     "nom": "X3 ESSUIE TT 2P BL",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.29,
+     "montant": 2.29
+    },
+    {
+     "nom": "DESINFECT. NETTOYA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.95,
+     "montant": 2.95
+    },
+    {
+     "nom": "500ML LIQ VSL 0% C",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.99,
+     "montant": 0.99
+    }
+   ]
+  },
+  {
+   "id": "10-805-1835",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "28/07/2026",
+   "total": 41.47,
+   "produits": [
+    {
+     "nom": "SAC KRAFT SERIE SP",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    },
+    {
+     "nom": "8X100G NATURE SIGG",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.85,
+     "montant": 4.85
+    },
+    {
+     "nom": "GNOCCHETTI POULET",
+     "tva": 5.5,
+     "qte": 3,
+     "pu": 4.45,
+     "montant": 13.35
+    },
+    {
+     "nom": "CANARD CONFIT PDT",
+     "tva": 5.5,
+     "qte": 3,
+     "pu": 4.65,
+     "montant": 13.95
+    },
+    {
+     "nom": "375G MUESLI CR TT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.89,
+     "montant": 2.89
+    },
+    {
+     "nom": "SALADE&CIE ROMA 32",
+     "tva": 10.0,
+     "qte": 2,
+     "pu": 3.09,
+     "montant": 6.18
+    }
+   ]
+  },
+  {
+   "id": "102-63-1246",
+   "magasin": "LABÈGE",
+   "date": "10/08/2026",
+   "total": 36.51,
+   "produits": [
+    {
+     "nom": "SAUCE SOJA SUCREE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 0.99,
+     "montant": 0.99
+    },
+    {
+     "nom": "MIX ICONIC",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 17.5,
+     "montant": 17.5
+    },
+    {
+     "nom": "25 CL RED BULL REG",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.15,
+     "montant": 1.15
+    },
+    {
+     "nom": "SALADE.CIE MANHATT",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 2.99,
+     "montant": 2.99
+    },
+    {
+     "nom": "LOT 2 GANT BIO",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 4.99,
+     "montant": 4.99
+    },
+    {
+     "nom": "MAG DLX CARA 85ML",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.25,
+     "montant": 3.25
+    },
+    {
+     "nom": "270G SKYR AB FRAIS",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.65,
+     "montant": 1.65
+    },
+    {
+     "nom": "2 GANTS EPONGE",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.99,
+     "montant": 3.99
+    }
+   ]
+  },
+  {
+   "id": "111-61-1259",
+   "magasin": "LABÈGE",
+   "date": "30/01/2026",
+   "total": 16.8,
+   "produits": [
+    {
+     "nom": "FORMAGISSIMA 2025",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 12.9,
+     "montant": 12.9
+    },
+    {
+     "nom": "THE BONA PECHE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.9,
+     "montant": 3.9
+    }
+   ]
+  },
+  {
+   "id": "18-71-1256",
+   "magasin": "LABÈGE",
+   "date": "23/07/2026",
+   "total": 4.6,
+   "produits": [
+    {
+     "nom": "SIGG SKYR ABOIR FR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.45,
+     "montant": 1.45
+    },
+    {
+     "nom": "320G SALADE ANTIBE",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 3.15,
+     "montant": 3.15
+    }
+   ]
+  },
+  {
+   "id": "2-2289-1721",
+   "magasin": "EXPRESS TOULOUSE BARCELONE",
+   "date": "09/08/2026",
+   "total": 10.95,
+   "produits": [
+    {
+     "nom": "320G SALADE ROMA SOD",
+     "tva": 10.0,
+     "qte": 2,
+     "pu": 4.35,
+     "montant": 8.7
+    },
+    {
+     "nom": "25 CL RED BULL MYRTI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.25,
+     "montant": 2.25
+    }
+   ]
+  },
+  {
+   "id": "2-8791-1841",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "22/01/2026",
+   "total": 34.44,
+   "produits": [
+    {
+     "nom": "SAC KRAFT BRUN",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    },
+    {
+     "nom": "8X125G LAUTHENTIQ",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 15.49,
+     "montant": 15.49
+    },
+    {
+     "nom": "CEREALES ET EN-CAS",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.77,
+     "montant": 2.77
+    },
+    {
+     "nom": "BANANE CRF BIO",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "4 TR BLC PLT DORE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.59,
+     "montant": 1.59
+    },
+    {
+     "nom": "480G PIZZAIOLO 6 F",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.85,
+     "montant": 4.85
+    },
+    {
+     "nom": "8X100G FR.BLC.VAN.",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.55,
+     "montant": 2.55
+    },
+    {
+     "nom": "454G BEURRE CACAHU",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.95,
+     "montant": 4.95
+    }
+   ]
+  },
+  {
+   "id": "29-1802-1826",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "10/08/2026",
+   "total": 13.51,
+   "produits": [
+    {
+     "nom": "160G EMMENTAL RAP",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "2X25CL CREME BT SE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.09,
+     "montant": 3.09
+    },
+    {
+     "nom": "500G COQUILLETTES",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.05,
+     "montant": 1.05
+    },
+    {
+     "nom": "100G CREVETTE JUMB",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 3.69,
+     "montant": 7.38
+    }
+   ]
+  },
+  {
+   "id": "29-8664-1907",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "16/01/2026",
+   "total": 30.72,
+   "produits": [
+    {
+     "nom": "11 KINDER MAXI",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.49,
+     "montant": 3.49
+    },
+    {
+     "nom": "250G RAVIOLI FROM",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 3.45,
+     "montant": 6.9
+    },
+    {
+     "nom": "400G CABILLAU PANE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 7.09,
+     "montant": 7.09
+    },
+    {
+     "nom": "500G RIZ BASMATI C",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.49,
+     "montant": 1.49
+    },
+    {
+     "nom": "SAUCE FISH&CHIPS",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "500G BIO FLOCON AV",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "KOMBUC GINGEMB CIA",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 2.89,
+     "montant": 5.78
+    },
+    {
+     "nom": "BANANE CRF BIO",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    }
+   ]
+  },
+  {
+   "id": "3-25-0957",
+   "magasin": "CITY TOULOUSE ALBI",
+   "date": "14/08/2026",
+   "total": 11.44,
+   "produits": [
+    {
+     "nom": "PET 2L POM.CASSIS.FR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.09,
+     "montant": 3.09
+    },
+    {
+     "nom": "230G XXL HIGH PROT S",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.15,
+     "montant": 3.15
+    },
+    {
+     "nom": "130G MINI TARTINADE",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 2.7,
+     "montant": 2.7
+    },
+    {
+     "nom": "1KG FROM.FRAIS 3%MG",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.5,
+     "montant": 2.5
+    }
+   ]
+  },
+  {
+   "id": "3-5016-2006",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "01/06/2026",
+   "total": 10.92,
+   "produits": [
+    {
+     "nom": "250G CRAQUANTE NAT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.89,
+     "montant": 2.89
+    },
+    {
+     "nom": "500ML BOISS AVOIN",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.79,
+     "montant": 1.79
+    },
+    {
+     "nom": "8X100G FR.BLC.VAN.",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.55,
+     "montant": 2.55
+    },
+    {
+     "nom": "180G NUGGET TOFU",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.69,
+     "montant": 3.69
+    }
+   ]
+  },
+  {
+   "id": "31-7196-1900",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "24/07/2026",
+   "total": 27.95,
+   "produits": [
+    {
+     "nom": "500ML SH REPAR+ PR",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 4.86,
+     "montant": 4.86
+    },
+    {
+     "nom": "SIG I8 TP COMPLET",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.69,
+     "montant": 2.69
+    },
+    {
+     "nom": "25 CL RED BULL COC",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.57,
+     "montant": 1.57
+    },
+    {
+     "nom": "3X40G CAC CHOC NOI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.9,
+     "montant": 3.9
+    },
+    {
+     "nom": "EAT NATURAL T3 PRO",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.9,
+     "montant": 3.9
+    },
+    {
+     "nom": "35CL WH.LABEL 5",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 8.35,
+     "montant": 8.35
+    },
+    {
+     "nom": "PET 1.75L COCA",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.43,
+     "montant": 2.43
+    },
+    {
+     "nom": "SAC KRAFT SERIE SP",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    }
+   ]
+  },
+  {
+   "id": "31-7333-1909",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "13/05/2026",
+   "total": 9.22,
+   "produits": [
+    {
+     "nom": "125G CAPRICE DES",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.19,
+     "montant": 2.19
+    },
+    {
+     "nom": "8X100G FR.BLC.VAN.",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.55,
+     "montant": 2.55
+    },
+    {
+     "nom": "KINDER T9 COUNTRY",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.49,
+     "montant": 3.49
+    },
+    {
+     "nom": "PAIN 400 GR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 0.99,
+     "montant": 0.99
+    }
+   ]
+  },
+  {
+   "id": "32-979-1052",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "15/02/2026",
+   "total": 45.5,
+   "produits": [
+    {
+     "nom": "BIO CONCOMBRE PCE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.39,
+     "montant": 2.39
+    },
+    {
+     "nom": "L OR ESPRE SPLENDE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 9.35,
+     "montant": 9.35
+    },
+    {
+     "nom": "BANANE CRF BIO",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.99,
+     "montant": 1.99
+    },
+    {
+     "nom": "454G BEURRE CAC PR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 4.49,
+     "montant": 4.49
+    },
+    {
+     "nom": "500G FRAMBOISES CR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 5.19,
+     "montant": 5.19
+    },
+    {
+     "nom": "250G VERMICELL RIZ",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.19,
+     "montant": 2.19
+    },
+    {
+     "nom": "1KG GRAIN PETITS P",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 19.65,
+     "montant": 19.65
+    },
+    {
+     "nom": "SAC KRAFT BRUN",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    }
+   ]
+  },
+  {
+   "id": "4-3296-1941",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "19/05/2026",
+   "total": 28.91,
+   "produits": [
+    {
+     "nom": "ULTRALITE MEDIUM 2",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.05,
+     "montant": 3.05
+    },
+    {
+     "nom": "75ML NAT ELMT CHAR",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 3.52,
+     "montant": 3.52
+    },
+    {
+     "nom": "PANE SIMPL",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 1.99,
+     "montant": 3.98
+    },
+    {
+     "nom": "2X25CL CREME SEMI",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.09,
+     "montant": 3.09
+    },
+    {
+     "nom": "PATE LUSTUCR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 1.85,
+     "montant": 1.85
+    },
+    {
+     "nom": "100G CREVETTE JUMB",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 3.69,
+     "montant": 7.38
+    },
+    {
+     "nom": "DOLCE PIZZA REGINA",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 3.89,
+     "montant": 3.89
+    },
+    {
+     "nom": "3X70G EMMENTAL RAP",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.15,
+     "montant": 2.15
+    }
+   ]
+  },
+  {
+   "id": "4-3868-1141",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "14/07/2026",
+   "total": 16.15,
+   "produits": [
+    {
+     "nom": "ESSUIE TT RENOVA I",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.65,
+     "montant": 2.65
+    },
+    {
+     "nom": "450GR SKYR VANILLE",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 1.99,
+     "montant": 3.98
+    },
+    {
+     "nom": "320G SLD&CIE PLT P",
+     "tva": 10.0,
+     "qte": 2,
+     "pu": 4.35,
+     "montant": 8.7
+    },
+    {
+     "nom": "150 MOUCHOIR 2PLIS",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.82,
+     "montant": 0.82
+    }
+   ]
+  },
+  {
+   "id": "4-520-2008",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "08/06/2026",
+   "total": 20.62,
+   "produits": [
+    {
+     "nom": "SAC KRAFT SERIE SP",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    },
+    {
+     "nom": "230G SAND VEGETAL",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 3.49,
+     "montant": 3.49
+    },
+    {
+     "nom": "180G BAP CLA WRAP",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 2.39,
+     "montant": 2.39
+    },
+    {
+     "nom": "900G CHILI CON CAR",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 6.15,
+     "montant": 6.15
+    },
+    {
+     "nom": "220G SANDWICH VEGE",
+     "tva": 10.0,
+     "qte": 1,
+     "pu": 3.49,
+     "montant": 3.49
+    },
+    {
+     "nom": "300G LENTILLE VERT",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.15,
+     "montant": 2.15
+    },
+    {
+     "nom": "1L ML 0%MG LACTEL",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.02,
+     "montant": 2.02
+    },
+    {
+     "nom": "2.X1/2 BAGUET.PREC",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 0.68,
+     "montant": 0.68
+    }
+   ]
+  },
+  {
+   "id": "6-7870-1850",
+   "magasin": "MARKET TOULOUSE MAOURINES",
+   "date": "06/08/2026",
+   "total": 20.03,
+   "produits": [
+    {
+     "nom": "SAC KRAFT SERIE SP",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 0.25,
+     "montant": 0.25
+    },
+    {
+     "nom": "X4 ET 3P BLC ULTRA",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 2.79,
+     "montant": 2.79
+    },
+    {
+     "nom": "300G TORTELLINI JB",
+     "tva": 5.5,
+     "qte": 2,
+     "pu": 2.65,
+     "montant": 5.3
+    },
+    {
+     "nom": "750ML PISTO.LAV.VI",
+     "tva": 20.0,
+     "qte": 1,
+     "pu": 1.35,
+     "montant": 1.35
+    },
+    {
+     "nom": "4X100G STEAK HACHE",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 7.79,
+     "montant": 7.79
+    },
+    {
+     "nom": "8X100G FR.BLC.VAN.",
+     "tva": 5.5,
+     "qte": 1,
+     "pu": 2.55,
+     "montant": 2.55
+    }
+   ]
+  }
+ ],
+ "n_catalogue": 200
+}
